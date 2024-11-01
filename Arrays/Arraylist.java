@@ -1,0 +1,4 @@
+
+public interface Arraylist<T> {
+
+}
